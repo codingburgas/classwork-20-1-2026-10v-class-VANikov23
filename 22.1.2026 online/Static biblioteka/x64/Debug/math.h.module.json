@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\math.h.obj",
+            "outputs": [
+                "C:\\Users\\vikto\\source\\repos\\22.1.2026 online\\x64\\Debug\\Static biblioteka.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\vikto\\source\\repos\\22.1.2026 online\\Static biblioteka\\x64\\Debug\\math.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "math.h",
+                    "source-path": "c:\\users\\vikto\\source\\repos\\22.1.2026 online\\static biblioteka\\math.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
